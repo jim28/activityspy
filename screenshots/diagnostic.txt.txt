@@ -1,0 +1,35 @@
+--------- beginning of /dev/log/system
+--------- beginning of /dev/log/main
+D/MainActivityWen(29826): OnRestart
+D/MainActivityWen(29826): OnStart
+D/MainActivityWen(29826): OnResume
+D/MainActivityWen(29826): OnPause
+D/MainActivityWen(29826): OnStop
+E/MainActivityWen(29826): We're going down,Captain!
+I/MainActivityWen(29826): App lauch!
+D/MainActivityWen(29826): OnStart
+D/MainActivityWen(29826): OnResume
+D/MainActivityWen(29826): OnPause
+D/MainActivityWen(29826): OnStop
+D/MainActivityWen(29826): OnRestart
+D/MainActivityWen(29826): OnStart
+D/MainActivityWen(29826): OnResume
+D/MainActivityWen(29826): OnPause
+D/MainActivityWen(29826): OnStop
+E/MainActivityWen(29826): We're going down,Captain!
+I/MainActivityWen(29826): App lauch!
+D/MainActivityWen(29826): OnStart
+D/MainActivityWen(29826): OnResume
+D/MainActivityWen(29826): OnPause
+D/MainActivityWen(29826): OnStop
+D/MainActivityWen(29826): OnRestart
+D/MainActivityWen(29826): OnStart
+D/MainActivityWen(29826): OnResume
+D/MainActivityWen(29826): OnPause
+D/MainActivityWen(29826): OnStop
+D/MainActivityWen(29826): OnRestart
+D/MainActivityWen(29826): OnStart
+D/MainActivityWen(29826): OnResume
+D/MainActivityWen(29826): OnPause
+D/MainActivityWen(29826): OnStop
+E/MainActivityWen(29826): We're going down,Captain!
